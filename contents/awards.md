@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 2023: National Scholarship.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 2024: Boshi Scholarship, Nanjing University. 
