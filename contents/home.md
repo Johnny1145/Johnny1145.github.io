@@ -8,3 +8,7 @@ My research interest lies in LLM for numerical regression, LLM for in-context re
 #### Email  
 <code>221300059@smail.nju.edu.cn</code>  
 
+#### Education
+• 2022.09 - Present, Undergradute in the School of [Artificial Intelligence](https://ai.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).
+• 2019.09 - 2022.06, Shantou JinShan Middle School, Guangdong.
+
